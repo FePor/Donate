@@ -1,0 +1,16 @@
+M:\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.csprojAssemblyReference.cache
+M:\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfoInputs.cache
+M:\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfo.cs
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.csprojAssemblyReference.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfoInputs.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfo.cs
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\bin\Debug\netcoreapp2.1\BL.deps.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\bin\Debug\netcoreapp2.1\BL.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\bin\Debug\netcoreapp2.1\BL.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\bin\Debug\netcoreapp2.1\DL.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\bin\Debug\netcoreapp2.1\Entities.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\bin\Debug\netcoreapp2.1\DL.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.csproj.CopyComplete
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\BL\obj\Debug\netcoreapp2.1\BL.pdb

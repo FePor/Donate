@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSFSpW90NOFhYM2FPWmIOqzcKDnY2DmU/dSaDREXZmJou0Ut8sY3pPw2xOOpx4MsUnyLFgPJrpOigKEptXSKsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\porush\\Downloads\\משפטים\\companiesAPI\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\porush\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\porush\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\porush\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

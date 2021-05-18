@@ -1,0 +1,97 @@
+
+<div class="container">
+    <h1 >הוספת דיווח על עמותה</h1>
+
+<form  [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div class="col">
+    <mat-form-field  appearance="outline" class="col-4">
+        <mat-label>שם היישות המדינית הזרה</mat-label>
+        <input matInput  formControlName="name"  required />
+      
+        <div *ngIf="submitted && f.name.errors" class="invalid-feedback">
+            <div *ngIf="f.name.errors.required">שדה חובה</div>
+        </div></mat-form-field>
+        <mat-form-field  appearance="outline" class="col-4">
+            <mat-label>סכום</mat-label>
+            <input type="number" matInput  formControlName="amount"  required />
+          
+            <div *ngIf="submitted && f.amount.errors" class="invalid-feedback">
+                <div *ngIf="f.amount.errors.required">שדה חובה</div>
+
+            </div></mat-form-field>
+        
+        <mat-form-field appearance="outline" class="col-4" >
+            <mat-label>סוג היישות המדינית</mat-label>
+       
+            <mat-select required formControlName="type">
+              <mat-option>--</mat-option>
+              <mat-option *ngFor="let type of [{value:'aa',label:'bb'}]"  [value]="type.value">
+                {{type.label}}
+              </mat-option>
+            </mat-select>
+            <div *ngIf="submitted && f.type.errors" class="invalid-feedback">
+                <div *ngIf="f.type.errors.required">שדה חובה</div>
+            </div>
+          </mat-form-field>
+          <div *ngIf="submitted && f.type.errors" class="invalid-feedback">
+            <div *ngIf="f.type.errors.required">שדה חובה</div>
+        </div>
+    </div>
+    <div class="col">
+        <mat-form-field  appearance="outline" class="col-12">
+            <mat-label>ייעוד</mat-label>
+            <input matInput  formControlName="details"  required />
+          
+            <div *ngIf="submitted && f.details.errors" class="invalid-feedback">
+                <div *ngIf="f.details.errors.required">שדה חובה</div>
+            </div></mat-form-field>
+    </div>
+    <div class="col">
+        <mat-form-field  appearance="outline" class="col-12">
+            <mat-label>תנאים</mat-label>
+            <input matInput  formControlName="conditions"  required />
+          
+            <div *ngIf="submitted && f.conditions.errors" class="invalid-feedback">
+                <div *ngIf="f.conditions.errors.required">שדה חובה</div>
+            </div></mat-form-field>
+    </div>
+    <div class="col">
+        <mat-form-field appearance="outline" class="col-3" >
+            <mat-label>סוג מטבע</mat-label>
+       
+            <mat-select required formControlName="currency">
+              <mat-option>--</mat-option>
+              <mat-option *ngFor="let currency of [{value:1,label:'bb'}]"  [value]="currency.value" >
+                {{currency.label}}
+              </mat-option>
+            </mat-select>
+            <div *ngIf="submitted && f.currency.errors" class="invalid-feedback">
+                <div *ngIf="f.currency.errors.required">שדה חובה</div>
+            </div>
+          </mat-form-field>
+          <mat-form-field  appearance="outline" class="col-4">
+            <mat-label>שער ההמרה</mat-label>
+            <input type="number" matInput  formControlName="rate"  required />
+          
+            <div *ngIf="submitted && f.rate.errors" class="invalid-feedback">
+                <div *ngIf="f.rate.errors.required">שדה חובה</div>
+            </div></mat-form-field>
+    </div>
+
+
+    
+        
+   
+    
+    <div class="form-group">
+        <button [disabled]="loading" class="btn btn-primary">
+            <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+            Save
+        </button>
+        <button (click)="reset()" [disabled]="loading" class="btn btn-outline-primary">
+            נקה
+        </button>
+    </div>
+</form>
+
+</div>

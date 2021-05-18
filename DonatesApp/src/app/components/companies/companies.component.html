@@ -1,0 +1,2 @@
+<a routerLink="add" class="btn btn-primary">הוספת תרומה</a>
+<app-donate-list [list]="companies" (delete)="delete($event)" (save)="save($event)" [countriesTypes]="countries" [currencies]="currencies"></app-donate-list>

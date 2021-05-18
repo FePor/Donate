@@ -1,0 +1,76 @@
+<div class="container">
+    <h1>רשימת תרומות</h1>
+    <mat-expansion-panel [disabled]="true"
+    #mep="matExpansionPanel"
+    *ngFor="let comp of data ;let indexOfelement=index;" [ngClass]="{'expanded-panel':mep.expanded}">
+<mat-expansion-panel-header appearance="fill" (click)="mep.expanded = !mep.expanded">
+<span class="bold"> {{indexOfelement}} יישות:  </span>
+<span class="bold">{{comp.name}}  </span>
+<span>{{comp.amount }} </span>
+<span class="toleft">
+<i  class="material-icons" >edit</i>
+<i  class="material-icons" (click)="delete.emit(comp)">delete</i>
+</span>
+
+</mat-expansion-panel-header>
+<mat-form-field appearance="outline" class="col-12">
+<mat-label>שם היישות המדינית</mat-label>
+<input  matInput required [(ngModel)]="comp.name"/>
+</mat-form-field>
+
+<mat-form-field appearance="outline"  class="col-12">
+  <mat-label>סכום</mat-label>
+  <input  type="number" matInput required [(ngModel)]="comp.amount"/>
+</mat-form-field>
+
+<mat-form-field appearance="outline"  class="col-12">
+  <mat-label>סוג היישות</mat-label>
+  <mat-select  required [formControl]="countryTypeControl">
+    <mat-option *ngFor="let type of [{label:'sdg'}]" [value]="type">
+      {{type.label}}
+    </mat-option>
+  </mat-select>
+  <mat-error *ngIf="countryTypeControl.hasError('required')">שדה חובה</mat-error>
+</mat-form-field>
+
+<mat-form-field appearance="outline"  class="col-12">
+  <mat-label>פרטים</mat-label>
+  <input  matInput required [(ngModel)]="comp.details"/>
+</mat-form-field>
+
+<mat-form-field appearance="outline"  class="col-12"> 
+  <mat-label>התנאים</mat-label>
+  <input  matInput required [(ngModel)]="comp.conditions"/>
+</mat-form-field>
+
+<mat-form-field appearance="outline"  class="col-12">
+  <mat-label>סוג המטבע</mat-label>
+  <mat-select  required [formControl]="currencyControl">
+    <mat-option *ngFor="let currency of currencies" [value]="currency">
+      {{currency.currency}}
+    </mat-option>
+  </mat-select>
+  <mat-error *ngIf="currencyControl.hasError('required')">שדה חובה</mat-error>
+</mat-form-field>
+
+
+
+<mat-form-field appearance="outline"  class="col-12">
+  <mat-label>שער ההמרה</mat-label>
+  <input matInput required [(ngModel)]="comp.conversionRate"/>
+</mat-form-field>
+
+<mat-action-row>
+  
+  <div class="form-group">
+    <button class="btn btn-primary" (click)="save.emit(comp)">
+        שמירה
+    </button>
+    <button   class="btn btn-outline-primary">
+        נקה
+    </button>
+</div>
+</mat-action-row>
+</mat-expansion-panel> 
+  
+  </div>

@@ -1,0 +1,34 @@
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.deps.json
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.dll
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.pdb
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfoInputs.cache
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfo.cs
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.dll
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.pdb
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.deps.json
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.dll
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.pdb
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.csprojAssemblyReference.cache
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfoInputs.cache
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfo.cs
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.csproj.CoreCompileInputs.cache
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.dll
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.pdb
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.deps.json
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.dll
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.pdb
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.csprojAssemblyReference.cache
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfo.cs
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.dll
+C:\Users\1\source\repos\2020\MyLocalSite\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.pdb
+C:\Users\student\Downloads\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.deps.json
+C:\Users\student\Downloads\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.dll
+C:\Users\student\Downloads\LocalSite.DTO\bin\Debug\netcoreapp3.0\LocalSite.DTO.pdb
+C:\Users\student\Downloads\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.csprojAssemblyReference.cache
+C:\Users\student\Downloads\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.AssemblyInfo.cs
+C:\Users\student\Downloads\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.dll
+C:\Users\student\Downloads\LocalSite.DTO\obj\Debug\netcoreapp3.0\LocalSite.DTO.pdb

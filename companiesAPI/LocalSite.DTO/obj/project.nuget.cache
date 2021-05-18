@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F0bkAdYPIVEgT/7coVI7aqWJA7vkRAO7gJaVMsoCa+7g4MhwBMDPSQQI45Pv6G2JqGJM0hIz/afZDTdSp0WoWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\Downloads\\LocalSite.DTO\\LocalSite.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

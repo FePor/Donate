@@ -1,0 +1,22 @@
+M:\MyLocalSite\DL\bin\Debug\netcoreapp2.1\DL.deps.json
+M:\MyLocalSite\DL\bin\Debug\netcoreapp2.1\DL.dll
+M:\MyLocalSite\DL\bin\Debug\netcoreapp2.1\DL.pdb
+M:\MyLocalSite\DL\bin\Debug\netcoreapp2.1\Entities.dll
+M:\MyLocalSite\DL\bin\Debug\netcoreapp2.1\Entities.pdb
+M:\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.csprojAssemblyReference.cache
+M:\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.AssemblyInfoInputs.cache
+M:\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.AssemblyInfo.cs
+M:\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.csproj.CopyComplete
+M:\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.dll
+M:\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\bin\Debug\netcoreapp2.1\DL.deps.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\bin\Debug\netcoreapp2.1\DL.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\bin\Debug\netcoreapp2.1\DL.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\bin\Debug\netcoreapp2.1\Entities.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.csprojAssemblyReference.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.AssemblyInfoInputs.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.AssemblyInfo.cs
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.csproj.CopyComplete
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\DL\obj\Debug\netcoreapp2.1\DL.pdb

@@ -1,0 +1,78 @@
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+F:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+F:\סרטונים\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\1\source\repos\2020\MyLocalSite\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\student\Downloads\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\student\Downloads\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\student\Downloads\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\student\Downloads\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\student\Downloads\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\student\Downloads\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\student\Downloads\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\student\Desktop\locale\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\student\Desktop\locale\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\student\Desktop\locale\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\student\Desktop\locale\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\student\Desktop\locale\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\locale\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\student\Desktop\locale\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\locale\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\student\Desktop\locale\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\porush\Downloads\FullServerClient\FullServerClient\locale\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\porush\Downloads\משפטים\locale\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\porush\Downloads\משפטים\locale\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\porush\Downloads\משפטים\locale\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\porush\Downloads\משפטים\locale\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\porush\Downloads\משפטים\locale\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\porush\Downloads\משפטים\locale\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\porush\Downloads\משפטים\locale\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\porush\Downloads\משפטים\locale\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\porush\Downloads\משפטים\locale\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\porush\Downloads\משפטים\companiesAPI\Entities\obj\Debug\netcoreapp3.0\Entities.pdb

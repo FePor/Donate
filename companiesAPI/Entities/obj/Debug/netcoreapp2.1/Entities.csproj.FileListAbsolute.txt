@@ -1,0 +1,16 @@
+M:\MyLocalSite\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+M:\MyLocalSite\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+M:\MyLocalSite\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+M:\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+M:\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+M:\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+M:\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+M:\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache

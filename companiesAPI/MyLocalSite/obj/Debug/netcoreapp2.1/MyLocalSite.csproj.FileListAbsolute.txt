@@ -1,0 +1,42 @@
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.deps.json
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.runtimeconfig.json
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.runtimeconfig.dev.json
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.dll
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.pdb
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.csprojAssemblyReference.cache
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.RazorAssemblyInfo.cache
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.RazorAssemblyInfo.cs
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.AssemblyInfoInputs.cache
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.AssemblyInfo.cs
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.RazorTargetAssemblyInfo.cache
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.dll
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.pdb
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\Entities.dll
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\Entities.pdb
+M:\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.csproj.CopyComplete
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\appsettings.Development.json
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\appsettings.json
+M:\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.csprojAssemblyReference.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.RazorAssemblyInfo.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.RazorAssemblyInfo.cs
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.AssemblyInfoInputs.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.AssemblyInfo.cs
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\appsettings.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.deps.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.runtimeconfig.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.runtimeconfig.dev.json
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\MyLocalSite.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\BL.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\DL.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\Entities.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\BL.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\DL.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\bin\Debug\netcoreapp2.1\Entities.pdb
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.RazorTargetAssemblyInfo.cache
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.csproj.CopyComplete
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.dll
+D:\כונן M 20.11\מרים נוסבכר\MyLocalSite\MyLocalSite\obj\Debug\netcoreapp2.1\MyLocalSite.pdb
