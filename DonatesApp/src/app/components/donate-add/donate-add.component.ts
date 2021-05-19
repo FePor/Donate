@@ -3,6 +3,7 @@ import { Router, ActivatedRoute } from '@angular/router';
 import { AbstractControlOptions, FormBuilder,FormControl, FormGroup, Validators } from '@angular/forms';
 import { first } from 'rxjs/operators';
 import { CompanyService } from '@app/services/comany.service';
+import { Item} from '@app/models';
 
 @Component({
   selector: 'app-donate-add',
@@ -15,10 +16,16 @@ export class DonateAddComponent implements OnInit {
   isAddMode!: boolean;
   loading = false;
   submitted = false;
+  countries!:Item[];
+  currencies!:Item[];
   constructor( private formBuilder: FormBuilder,
     private route: ActivatedRoute,
     private router: Router,
-    private companyService: CompanyService) { }
+    private companyService: CompanyService) { 
+      this.countries=[{label:"מדינה זרה",value:"1"},{label:"מדינה קרובה",value:"2"}];
+      this.currencies=[{label:"דולר",value:"1"},{label:"שטרלינג",value:"2"}];
+       
+    }
 
   ngOnInit(): void {
   

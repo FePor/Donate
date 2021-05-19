@@ -19,7 +19,7 @@ export class CompaniesComponent implements OnInit {
   constructor(private companyService: CompanyService) {
 
       this.countries=[{label:"מדינה זרה",value:"1"},{label:"מדינה קרובה",value:"2"}];
-      this.currencies=[{label:"דולר",value:"1"},{label:"סוג 2",value:"2"}];
+      this.currencies=[{label:"דולר",value:"1"},{label:"שטרלינג",value:"2"}];
        
   }
 

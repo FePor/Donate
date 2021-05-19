@@ -6,8 +6,8 @@
 <mat-expansion-panel-header appearance="fill" (click)="mep.expanded = !mep.expanded">
 <span class="bold"> {{indexOfelement}} יישות:  </span>
 <span class="bold">{{comp.name}}  </span>
-<span>{{comp.amount }} </span>
-<span class="toleft">
+<span>  {{comp.amount }} </span>
+<span class="toleft position">
 <i  class="material-icons" >edit</i>
 <i  class="material-icons" (click)="delete.emit(comp)">delete</i>
 </span>
@@ -26,7 +26,7 @@
 <mat-form-field appearance="outline"  class="col-12">
   <mat-label>סוג היישות</mat-label>
   <mat-select  required [formControl]="countryTypeControl">
-    <mat-option *ngFor="let type of [{label:'sdg'}]" [value]="type">
+    <mat-option *ngFor="let type of countries" [value]="type">
       {{type.label}}
     </mat-option>
   </mat-select>
@@ -47,7 +47,7 @@
   <mat-label>סוג המטבע</mat-label>
   <mat-select  required [formControl]="currencyControl">
     <mat-option *ngFor="let currency of currencies" [value]="currency">
-      {{currency.currency}}
+      {{currency.label}}
     </mat-option>
   </mat-select>
   <mat-error *ngIf="currencyControl.hasError('required')">שדה חובה</mat-error>
@@ -62,7 +62,7 @@
 
 <mat-action-row>
   
-  <div class="form-group">
+  <div class="toleft">
     <button class="btn btn-primary" (click)="save.emit(comp)">
         שמירה
     </button>

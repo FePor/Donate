@@ -8,18 +8,10 @@ import { Company,Item} from '@app/models';
   styleUrls: ['./donate-list.component.css'],
   encapsulation: ViewEncapsulation.None
 })
-
-
-
-
-
-
-
-
 export class DonateListComponent implements OnInit {
   @Input() list!:Company[];
 data!:Company[];
-@Input() countriesTypes!:Item[];
+@Input() countries!:Item[];
 @Input() currencies!:any[];
 @Output() save: EventEmitter<Company>= new EventEmitter<Company>();
 @Output() delete: EventEmitter<Company>= new EventEmitter<Company>();

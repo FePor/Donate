@@ -5,6 +5,10 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .toleft{
     text-align: left;
     float: left;
+left: 0px;
+}
+.position{
+    position: absolute;
 }
 .bold{
     font-weight:bold
